@@ -11,7 +11,7 @@ This minimal notebook illustrates a very simple tour of Weaviate V4 python clien
 
 ## Setup
 - First of all, run `poetry install` to add the required python packages.
-- Just run the notebook step by step observing its behaviors.
+- Just run the notebook mybooks in the booksimil directory step by step observing its behaviors.
 
 > **Note:** The current version will throw an error if the data insertion portion is run again with the collection already created.
 > - To run all again either change the collection name in the `.env` file or delete the collection in the Weaviate database.
